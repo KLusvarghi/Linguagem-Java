@@ -1,0 +1,847 @@
+{
+  // Use o IntelliSense para saber mais sobre os atributos possíveis.
+  // Focalizar para exibir as descrições dos atributos existentes.
+  // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch ex0x4",
+      "request": "launch",
+      "mainClass": "ex0x4",
+      "projectName": "LINGUAGEM JAVA_aba6a767"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex01copy",
+      "request": "launch",
+      "mainClass": "ex01copy",
+      "projectName": "LINGUAGEM JAVA_aba6a767"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex19",
+      "request": "launch",
+      "mainClass": "matrizes.exerciciosmatrizes.ex19",
+      "projectName": "LINGUAGEM JAVA_aba6a767"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex05",
+      "request": "launch",
+      "mainClass": "ex05",
+      "projectName": "LINGUAGEM JAVA_aba6a767"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex003",
+      "request": "launch",
+      "mainClass": "ex003",
+      "projectName": "LINGUAGEM JAVA_aba6a767"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex6",
+      "request": "launch",
+      "mainClass": "Ex6",
+      "projectName": "LINGUAGEM JAVA_aba6a767"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex02",
+      "request": "launch",
+      "mainClass": "ex02",
+      "projectName": "LINGUAGEM JAVA_aba6a767"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex01",
+      "request": "launch",
+      "mainClass": "ex01",
+      "projectName": "LINGUAGEM JAVA_aba6a767"
+    },
+    {
+      "type": "java",
+      "name": "Launch exemp09matrizRetorno",
+      "request": "launch",
+      "mainClass": "exemp09matrizRetorno",
+      "projectName": "LINGUAGEM JAVA_aba6a767"
+    },
+    {
+      "type": "java",
+      "name": "Launch exemp09vetorRetorno",
+      "request": "launch",
+      "mainClass": "exemp09vetorRetorno",
+      "projectName": "LINGUAGEM JAVA_aba6a767"
+    },
+    {
+      "type": "java",
+      "name": "Launch exemp08matrizComoParametro",
+      "request": "launch",
+      "mainClass": "exemp08matrizComoParametro",
+      "projectName": "LINGUAGEM JAVA_aba6a767"
+    },
+    {
+      "type": "java",
+      "name": "Launch exemp07vetorComParametro",
+      "request": "launch",
+      "mainClass": "exemp07vetorComParametro",
+      "projectName": "LINGUAGEM JAVA_aba6a767"
+    },
+    {
+      "type": "java",
+      "name": "Launch exemp05parametrosPorReferência",
+      "request": "launch",
+      "mainClass": "exemp05parametrosPorReferência",
+      "projectName": "LINGUAGEM JAVA_aba6a767"
+    },
+    {
+      "type": "java",
+      "name": "Launch exemp06parametrosPorReferência",
+      "request": "launch",
+      "mainClass": "exemp06parametrosPorReferência",
+      "projectName": "LINGUAGEM JAVA_aba6a767"
+    },
+    {
+      "type": "java",
+      "name": "Launch exemp05",
+      "request": "launch",
+      "mainClass": "exemp05",
+      "projectName": "LINGUAGEM JAVA_aba6a767"
+    },
+    {
+      "type": "java",
+      "name": "Launch exemp04ecolopoDeVairaveis",
+      "request": "launch",
+      "mainClass": "exemp04ecolopoDeVairaveis",
+      "projectName": "LINGUAGEM JAVA_aba6a767"
+    },
+    {
+      "type": "java",
+      "name": "Launch exemp03",
+      "request": "launch",
+      "mainClass": "exemp03",
+      "projectName": "LINGUAGEM JAVA_aba6a767"
+    },
+    {
+      "type": "java",
+      "name": "Launch exemp002",
+      "request": "launch",
+      "mainClass": "exemp002",
+      "projectName": "LINGUAGEM JAVA_aba6a767"
+    },
+    {
+      "type": "java",
+      "name": "Launch exemp02",
+      "request": "launch",
+      "mainClass": "exemp02",
+      "projectName": "LINGUAGEM JAVA_aba6a767"
+    },
+    {
+      "type": "java",
+      "name": "Launch exemp01",
+      "request": "launch",
+      "mainClass": "exemp01",
+      "projectName": "LINGUAGEM JAVA_aba6a767"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex04",
+      "request": "launch",
+      "mainClass": "ex04",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex000010",
+      "request": "launch",
+      "mainClass": "ex000010",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex09",
+      "request": "launch",
+      "mainClass": "ex09",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex06",
+      "request": "launch",
+      "mainClass": "ex06",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex05",
+      "request": "launch",
+      "mainClass": "ex05",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex0003",
+      "request": "launch",
+      "mainClass": "ex0003",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch exxx",
+      "request": "launch",
+      "mainClass": "exxx",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch exemplo03",
+      "request": "launch",
+      "mainClass": "exemplo03",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch exemplo01",
+      "request": "launch",
+      "mainClass": "exemplo01",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex003",
+      "request": "launch",
+      "mainClass": "ex003",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex03",
+      "request": "launch",
+      "mainClass": "ex03",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch deleteStringBuffer",
+      "request": "launch",
+      "mainClass": "deleteStringBuffer",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch insertStringBuffer",
+      "request": "launch",
+      "mainClass": "insertStringBuffer",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch IndexOfocorrenciaString",
+      "request": "launch",
+      "mainClass": "IndexOfocorrenciaString",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch indexOF",
+      "request": "launch",
+      "mainClass": "indexOF",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch subStrings",
+      "request": "launch",
+      "mainClass": "subStrings",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch comparaStrings",
+      "request": "launch",
+      "mainClass": "comparaStrings",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch concatenaString",
+      "request": "launch",
+      "mainClass": "concatenaString",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch InicializaString",
+      "request": "launch",
+      "mainClass": "InicializaString",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch AppendStringBuffer",
+      "request": "launch",
+      "mainClass": "AppendStringBuffer",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex15segunda",
+      "request": "launch",
+      "mainClass": "ex15segunda",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex02",
+      "request": "launch",
+      "mainClass": "ex02",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex55",
+      "request": "launch",
+      "mainClass": "ex55",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex01",
+      "request": "launch",
+      "mainClass": "ex01",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex3",
+      "request": "launch",
+      "mainClass": "ex3",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch p1",
+      "request": "launch",
+      "mainClass": "p1",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex12Vetores",
+      "request": "launch",
+      "mainClass": "vetores.exerciciosvetores.ex12Vetores",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex09",
+      "request": "launch",
+      "mainClass": "vetores.exerciciosvetores.ex09",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex25",
+      "request": "launch",
+      "mainClass": "matrizes.exerciciosmatrizes.ex25",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex26",
+      "request": "launch",
+      "mainClass": "matrizes.exerciciosmatrizes.ex26",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex24",
+      "request": "launch",
+      "mainClass": "matrizes.exerciciosmatrizes.ex24",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex23",
+      "request": "launch",
+      "mainClass": "matrizes.exerciciosmatrizes.ex23",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex22",
+      "request": "launch",
+      "mainClass": "matrizes.exerciciosmatrizes.ex22",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex21",
+      "request": "launch",
+      "mainClass": "matrizes.exerciciosmatrizes.ex21",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex20",
+      "request": "launch",
+      "mainClass": "matrizes.exerciciosmatrizes.ex20",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex19",
+      "request": "launch",
+      "mainClass": "matrizes.exerciciosmatrizes.ex19",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex18",
+      "request": "launch",
+      "mainClass": "matrizes.exerciciosmatrizes.ex18",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex17",
+      "request": "launch",
+      "mainClass": "matrizes.exerciciosmatrizes.ex17",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex16",
+      "request": "launch",
+      "mainClass": "matrizes.exerciciosmatrizes.ex16",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex15",
+      "request": "launch",
+      "mainClass": "matrizes.exerciciosmatrizes.ex15",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex14",
+      "request": "launch",
+      "mainClass": "matrizes.exerciciosmatrizes.ex14",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex08",
+      "request": "launch",
+      "mainClass": "vetores.exerciciosvetores.ex08",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex03",
+      "request": "launch",
+      "mainClass": "vetores.exerciciosvetores.ex03",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex13",
+      "request": "launch",
+      "mainClass": "vetores.exerciciosvetores.ex13",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex12",
+      "request": "launch",
+      "mainClass": "vetores.exerciciosvetores.ex12",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex11",
+      "request": "launch",
+      "mainClass": "vetores.exerciciosvetores.ex11",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex10",
+      "request": "launch",
+      "mainClass": "vetores.exerciciosvetores.ex10",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex07",
+      "request": "launch",
+      "mainClass": "vetores.exerciciosvetores.ex07",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex06",
+      "request": "launch",
+      "mainClass": "vetores.exerciciosvetores.ex06",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex05",
+      "request": "launch",
+      "mainClass": "vetores.exerciciosvetores.ex05",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex04",
+      "request": "launch",
+      "mainClass": "vetores.exerciciosvetores.ex04",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex03",
+      "request": "launch",
+      "mainClass": "matrizes.exerciciosmatrizes.ex03",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch exem2",
+      "request": "launch",
+      "mainClass": "matrizes.exemplosmatrizes.exem2",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch exemplo1",
+      "request": "launch",
+      "mainClass": "matrizes.exemplosmatrizes.exemplo1",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch exemplo3",
+      "request": "launch",
+      "mainClass": "matrizes.exemplosmatrizes.exemplo3",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch exem1",
+      "request": "launch",
+      "mainClass": "matrizes.exemplosmatrizes.exem1",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch exemplo4",
+      "request": "launch",
+      "mainClass": "matrizes.exemplosmatrizes.exemplo4",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch exemplo2",
+      "request": "launch",
+      "mainClass": "exemplosmatrizes.exemplo2",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch exemplo1",
+      "request": "launch",
+      "mainClass": "exemplosmatrizes.exemplo1",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch exem2",
+      "request": "launch",
+      "mainClass": "exem2",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch exem1",
+      "request": "launch",
+      "mainClass": "exem1",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch exemploDoisPontos2",
+      "request": "launch",
+      "mainClass": "exemploDoisPontos2",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch exemploDoisPontos",
+      "request": "launch",
+      "mainClass": "exemploDoisPontos",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch exemplo2",
+      "request": "launch",
+      "mainClass": "exemplo2",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch exemplo1",
+      "request": "launch",
+      "mainClass": "exemplo1",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex19",
+      "request": "launch",
+      "mainClass": "ex19",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex17",
+      "request": "launch",
+      "mainClass": "ex17",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex16",
+      "request": "launch",
+      "mainClass": "ex16",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex15",
+      "request": "launch",
+      "mainClass": "ex15",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex13",
+      "request": "launch",
+      "mainClass": "ex13",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch tp001",
+      "request": "launch",
+      "mainClass": "tp001",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch tp01",
+      "request": "launch",
+      "mainClass": "tp01",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex12",
+      "request": "launch",
+      "mainClass": "ex12",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex11",
+      "request": "launch",
+      "mainClass": "ex11",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ex10",
+      "request": "launch",
+      "mainClass": "ex10",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex9",
+      "request": "launch",
+      "mainClass": "Ex9",
+      "projectName": "LINGUAGEM JAVA_25be443b"
+    },
+    {
+      "type": "java",
+      "name": "Launch vetoresEX5",
+      "request": "launch",
+      "mainClass": "vetoresEX5",
+      "projectName": "PROJETO JAVA_36a71165"
+    },
+    {
+      "type": "java",
+      "name": "Launch vetoresEX4",
+      "request": "launch",
+      "mainClass": "vetoresEX4",
+      "projectName": "PROJETO JAVA_36a71165"
+    },
+    {
+      "type": "java",
+      "name": "Launch vetoresEX3",
+      "request": "launch",
+      "mainClass": "vetoresEX3",
+      "projectName": "PROJETO JAVA_36a71165"
+    },
+    {
+      "type": "java",
+      "name": "Launch vetoresEX2",
+      "request": "launch",
+      "mainClass": "vetoresEX2",
+      "projectName": "PROJETO JAVA_36a71165"
+    },
+    {
+      "type": "java",
+      "name": "Launch vetoresEX1",
+      "request": "launch",
+      "mainClass": "vetoresEX1",
+      "projectName": "PROJETO JAVA_36a71165"
+    },
+    {
+      "type": "java",
+      "name": "Launch vetoresNumerosAleatorios",
+      "request": "launch",
+      "mainClass": "vetoresNumerosAleatorios",
+      "projectName": "PROJETO JAVA_36a71165"
+    },
+    {
+      "type": "java",
+      "name": "Launch vetoresMathRandom",
+      "request": "launch",
+      "mainClass": "vetoresMathRandom",
+      "projectName": "PROJETO JAVA_36a71165"
+    },
+    {
+      "type": "java",
+      "name": "Launch vetoresRandom",
+      "request": "launch",
+      "mainClass": "vetoresRandom",
+      "projectName": "PROJETO JAVA_36a71165"
+    },
+    {
+      "type": "java",
+      "name": "Launch vetoresComWhile",
+      "request": "launch",
+      "mainClass": "vetoresComWhile",
+      "projectName": "PROJETO JAVA_36a71165"
+    },
+    {
+      "type": "java",
+      "name": "Launch vetores2",
+      "request": "launch",
+      "mainClass": "vetores2",
+      "projectName": "PROJETO JAVA_36a71165"
+    },
+    {
+      "type": "java",
+      "name": "Launch vetores",
+      "request": "launch",
+      "mainClass": "vetores",
+      "projectName": "PROJETO JAVA_36a71165"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex5",
+      "request": "launch",
+      "mainClass": "Ex5",
+      "projectName": "PROJETO JAVA_36a71165"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex4",
+      "request": "launch",
+      "mainClass": "Ex4",
+      "projectName": "PROJETO JAVA_36a71165"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex3",
+      "request": "launch",
+      "mainClass": "Ex3",
+      "projectName": "PROJETO JAVA_36a71165"
+    },
+    {
+      "type": "java",
+      "name": "Launch estruturaDoWhile",
+      "request": "launch",
+      "mainClass": "estruturaDoWhile",
+      "projectName": "PROJETO JAVA_36a71165"
+    },
+    {
+      "type": "java",
+      "name": "Launch estruturaFOR",
+      "request": "launch",
+      "mainClass": "estruturaFOR",
+      "projectName": "PROJETO JAVA_36a71165"
+    },
+    {
+      "type": "java",
+      "name": "Launch ObjectRANDOM",
+      "request": "launch",
+      "mainClass": "ObjectRANDOM",
+      "projectName": "PROJETO JAVA_36a71165"
+    },
+    {
+      "type": "java",
+      "name": "Launch switchCase3",
+      "request": "launch",
+      "mainClass": "switchCase3",
+      "projectName": "PROJETO JAVA_36a71165"
+    },
+    {
+      "type": "java",
+      "name": "Launch switchCase",
+      "request": "launch",
+      "mainClass": "switchCase",
+      "projectName": "PROJETO JAVA_36a71165"
+    },
+    {
+      "type": "java",
+      "name": "Launch App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "PROJETO JAVA_36a71165"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex21",
+      "request": "launch",
+      "mainClass": "Ex21",
+      "projectName": "PROJETO JAVA_36a71165"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex8",
+      "request": "launch",
+      "mainClass": "Ex8",
+      "projectName": "PROJETO JAVA_36a71165"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex6",
+      "request": "launch",
+      "mainClass": "Ex6",
+      "projectName": "PROJETO JAVA_36a71165"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    }
+  ]
+}
