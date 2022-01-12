@@ -3,9 +3,13 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.Locale;
 
 public class tratamento02 {
     public static void main(String[] args) {
+
+		Locale.setDefault(Locale.US); /*Considera o ponto como separador de dedcimeis e não a virgula */
+
 		if (args.length != 2) {
 			System.out.println("Uso: java CopiaArquivoExcecao <arq1> <arq2>");
 			return;

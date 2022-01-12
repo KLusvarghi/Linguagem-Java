@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch FileAndDirectoryInfo",
+      "request": "launch",
+      "mainClass": "FileAndDirectoryInfo",
+      "projectName": "Linguagem-Java_7ad98e27"
+    },
+    {
+      "type": "java",
       "name": "Launch ex0x4",
       "request": "launch",
       "mainClass": "ex0x4",

@@ -1,7 +1,7 @@
 public class tratamento01 {
     public static void main(String[] args) {
         try {
-            int i = Integer.parseInt(args[0]);
+            int i = Integer.parseInt(args[5]);
             System.out.println("i = " + i);
         } // catch (ArrayIndexOutOfBoundsException e){
         //     System.out.println("Você não passou argumentos para o programa!");
